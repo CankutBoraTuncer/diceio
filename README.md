@@ -1,6 +1,6 @@
 # diceio
 
-A new Flutter application.
+A simple dice application
 
 ## Getting Started
 
